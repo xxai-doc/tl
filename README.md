@@ -2,9 +2,9 @@
 
 * [Website na Multilingual Documentation](https://github.com/xxai-doc)
 
-Ang front-end code ng website ay open source, malugod na tumulong sa pag-optimize ng pagsasalin
+Ang frontend code ng website ay open source, malugod na tumulong sa pag-optimize ng pagsasalin
 
-* [front-end na code](https://github.com/xxai-art/web)
+* [Frontend Code](https://github.com/xxai-art/web)
 * [Language pack para sa site sa kabuuan](https://github.com/xxai-art/web/tree/main/i18n)
 * [Language pack para sa mga module sa pag-log in](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Website na Multilingual Documentation](https://github.com/xxai-doc)
